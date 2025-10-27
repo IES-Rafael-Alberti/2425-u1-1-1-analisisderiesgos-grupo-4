@@ -68,7 +68,6 @@
 - Coordinación de la formación y sensibilización del personal en temas de ciberseguridad.
 
 - Calendario de realización y seguimiento y revisión del análisis.
-Aquí está la tabla convertida a formato Markdown:[1]
 
 | Fase | Frecuencia | Responsable |
 |------|-----------|-------------|
@@ -91,7 +90,7 @@ Estrategia empresarial y su impacto
 
 La empresa está inmersa en una estrategia de transformación digital que tiene como objetivo realizar la mayoría de los trabajos a través de internet, apoyándose en la página web y utilizando redes sociales para ampliar su presencia y captar clientes.
 
-El cambio estratégico afecta directamente a
+El cambio estratégico afecta directamente a:
 - La dependencia de servicios en la nube y proveedores externos (página web, tienda online, almacenamiento).​
 - La gestión y protección de datos sensibles de clientes, proveedores y operaciones internas.
 - La necesidad de asegurar la continuidad operativa y la protección frente a incidentes que puedan afectar a la disponibilidad, integridad y confidencialidad de la información.​
@@ -130,7 +129,7 @@ Razonamiento y prioridades
 ## 3. Amenazas que pueden afectar a los activos {#3.-amenazas-que-pueden-afectar-a-los-activos}
 
 1. Amenazas Intencionadas y Maliciosas
-. Acceso no autorizado
+- Acceso no autorizado
 - Hacking y código malicioso (malware): Ataques de hackers, virus, ransomware o spyware que buscan robar, destruir o secuestrar información.​
 - Espionaje industrial: Intentos de obtener información confidencial.
 - Robo, fraude y vandalismo
@@ -188,8 +187,19 @@ Decidir el umbral a partir del cual se aceptará el riesgo.
 
 ## 6. Medidas complementarias que permitan materializar la protección de los activos. {#6.-medidas-complementarias-que-permitan-materializar-la-protección-de-los-activos.}
 
-Tomar una estrategia para tratar el riesgo y obtener riesgo residual tras aplicar estrategia.  
-Iniciativas para implantar controles o salvaguardas.
+Medidas Complementarias para Proteger los Activos
+- Plan de Continuidad de Negocio y Recuperación ante Desastres: No basta con copias de seguridad, se necesita un plan que diga cómo se seguirá operando si ocurre un desastre y como recuperar la normalidad en el menor tiempo posible
+- Monitorización Continua y Gestión de Incidentes: Implementar sistemas que vigilan la actividad de la red y sistemas en tiempo real para detectar comportamientos anómalos.
+- Inteligencia de Amenazas (Threat Intelligence): Permite conocer las tácticas, técnicas y procedimientos que usan los ciberdelincuentes para anticiparse a sus ataques.
+- Auditorías de Seguridad y Pentesting Periódicos: Hay que poner a prueba nuestras defensas regularmente. Las auditorías revisan que los controles estén bien implementados, y el pentesting simula un ataque real para encontrar agujeros de seguridad.
+- Fortalecimiento de la Seguridad del Proveedor Web: Es crucial exigir al proveedor que garantice unos niveles de seguridad, que nos proporcione informes de estado y que aplique parches y actualizaciones periodicamente.
+
+Estrategia de Tratamiento del Riesgo y el Riesgo Residual​
+- Mitigar o Reducir el Riesgo: Implementar salvaguardas (controles) para reducir la probabilidad de que la amenaza ocurra o para disminuir el impacto si llega a materializarse.
+- Transferir el Riesgo: Consiste en pasar el riesgo a un tercero. La empresa no se libra del problema, pero sí de las consecuencias financieras.
+- Eliminar o Evitar el Riesgo: Es la opción más drástica. Si un proceso o una tecnología conlleva un riesgo demasiado alto y no es absolutamente esencial para el negocio, se puede decidir eliminarlo.
+- Aceptar o Asumir el Riesgo: A veces, el coste de implementar un control es mucho mayor que el daño que podría causar el riesgo. En otros casos, el nivel de riesgo es tan bajo que la empresa decide, de forma consciente e informada, no hacer nada y simplemente asumirlo.
+
 
 ## 7. Conclusión {#7.-conclusión}
 
