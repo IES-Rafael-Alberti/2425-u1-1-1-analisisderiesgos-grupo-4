@@ -225,3 +225,14 @@ Un buen análisis de riesgos en ciberseguridad no es un trámite más, sino la b
 A día de hoy, la gestión del riesgo debe formar parte del ADN de la empresa, ya que es algo fundamental. No vale solamente con reaccionar o con implantar medidas aisladas, si no que, hace falta compromiso de toda la empresa y una revisión constante que mantenga la estrategia viva y actualizada frente a un entorno cambiante.
 El análisis de riesgos nos ofrece una visión clara de dónde estamos y hacia dónde debemos ir lo que nos facilita la toma de decisiones informadas, priorizar inversiones y equilibrar la seguridad con los objetivos del negocio.Solo así una organización puede considerarse verdaderamente preparada para proteger su información, mantener su operatividad y preservar su reputación frente a los desafíos del mundo digital actual.
 ## 8. Bibliografía/Webgrafía {#8.-bibliografía/webgrafía}
+
+- [Ficha PDS](recursos/1.1.%20Ficha%20PDS.pdf)
+- [Plan director de seguridad](recursos/1.2.%20Plan%20director%20de%20seguridad.pdf)
+- [Control ISO 27002](recursos/2.1.%20Control%20ISO%2027002.pdf)
+- [Control ISO 27002 Ampliado](recursos/2.2.%20Control%20ISO%2027002%20Ampliado.pdf)
+- [Une-en ISO/IEC 27002 norma mincotur](recursos/2.3.%20Une-en_iso-iec_27002_norma_mincotur.pdf)
+- [Análisis de riesgos en 6 pasos](recursos/3.1.%20Análisis%20de%20riesgos%20en%206%20pasos.pdf)
+- [Listado de Amenazas y Vulnerabilidades ISO 27000](recursos/3.2%20Listado%20de%20Amenazas%20y%20Vulnerabilidades%20ISO27000.pdf)
+- [Magerit v3 catálogo de elementos](recursos/3.3%202012_Magerit_v3_libro2_catalogo-de-elementos_es_NIPO_630-12-171-8%20(1).pdf)
+- [Guía ciberseguridad gestión riesgos metad](recursos/3.4%20Guia_ciberseguridad_gestion_riesgos_metad.pdf)
+- [Ejemplo Plan Director de Seguridad](recursos/EjemploPlanDirectorDeSeguridad.pdf)
