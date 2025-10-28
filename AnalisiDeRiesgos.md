@@ -80,8 +80,8 @@
 Seguimiento y revisión continua
 El sistema implementado debe contemplar revisiones periódicas que incluyan:
 - Actualización del inventario de activos, amenazas y vulnerabilidades.
-- Evaluación del impacto de nuevos incidentes o cambios tecnológicos.
-- Revisión de la eficacia de las medidas de seguridad implantadas.
+- Evaluación del impacto de nuevos incidentes.
+- Revisión de eficacia de las medidas de seguridad.
 - Reajuste de los criterios de aceptación del riesgo.
 
 ## 1. Alcance del análisis  {#1.-alcance-del-análisis}
@@ -92,8 +92,8 @@ La empresa está inmersa en una estrategia de transformación digital que tiene 
 
 El cambio estratégico afecta directamente a:
 - La dependencia de servicios en la nube y proveedores externos (página web, tienda online, almacenamiento).​
-- La gestión y protección de datos sensibles de clientes, proveedores y operaciones internas.
-- La necesidad de asegurar la continuidad operativa y la protección frente a incidentes que puedan afectar a la disponibilidad, integridad y confidencialidad de la información.​
+- La protección de datos de clientes, proveedores y operaciones internas.
+- La necesidad de asegurar la continuidady la protección frente a incidentes que puedan afectar a la disponibilidad, integridad y confidencialidad de la información.​
 
 Departamento o área a analizar
 - Todos los departamentos que participan en la gestión, procesamiento y almacenamiento de información crítica: TIC, facturación y ventas, compras, RRHH, comunicación y RRSS, delivery, legal, mantenimiento y consejo de administración.
@@ -105,9 +105,9 @@ Departamento o área a analizar
 
 Activos principales identificados
 - Puestos de trabajo: Ordenadores personales, impresoras y teléfonos fijos.
-- Dispositivos móviles: Portátiles, teléfonos móviles y tabletas, fundamentales para el trabajo remoto, el acceso a información en movilidad y la comunicación con clientes y proveedores.​
-- Sistemas de almacenamiento externo: Discos duros externos y pendrives, empleados para transportar información sensible o realizar copias de seguridad locales.​
-- Servidores locales: Incluyen servidores de correo electrónico, servidores de archivos y aplicaciones, esenciales para la gestión interna, el almacenamiento y procesamiento de la información.​
+- Portátiles, teléfonos móviles y tablets, fundamentales para el trabajo remoto, el acceso a información en cualquier lugar y la comunicación con clientes y proveedores.​
+- Almacenamiento externo: Discos duros externos y pendrives, empleados para transportar información o realizar copias de seguridad locales desconectadas de la red.​
+- Servidores locales: Servidores de correo electrónico, de archivos y aplicaciones, esenciales para la gestión interna, el almacenamiento y la información.​
 
 Infraestructura de red
 - Servicios en la nube: Espacios para almacenamiento y aplicaciones
@@ -123,7 +123,7 @@ Razonamiento y prioridades
 - Estos activos han sido seleccionados por su impacto directo en la operativa diaria, la continuidad del negocio y el cumplimiento normativo.
 - Sin estos activos, la empresa no podría prestar servicio alguno o se expondría a sanciones legales y pérdidas económicas severas.
 - Muchos de estos activos están distribuidos en dos sedes, por tanto su protección afecta a toda la organización.
-- El uso de servicios en la nube y la externalización de la web amplía la superficie de riesgo más allá del perímetro físico de la empresa.​
+- El uso de servicios en la nube y la externalización de la web amplía la superficie de riesgo.
 
 
 ## 3. Amenazas que pueden afectar a los activos {#3.-amenazas-que-pueden-afectar-a-los-activos}
@@ -195,7 +195,7 @@ Salvaguardas actuales y recomendables para los activos:
 | | Software y sistemas operativos desactualizados, sin los últimos parches de seguridad. |
 | | Uso de software no autorizado o descargado de fuentes no fiables. |
 | | Conexiones a redes públicas o Wi-Fi sin las debidas medidas de protección. |
-| | Ausencia de sistemas de autenticación robustos (como la autenticación multifactor). |
+| | Ausencia de sistemas de autenticación robustos. |
 
 
 ## 5. Evaluación y cálculo del riesgo {#5.-evaluación-y-cálculo-del-riesgo}
@@ -208,16 +208,16 @@ Decidir el umbral a partir del cual se aceptará el riesgo.
 
 Medidas Complementarias para Proteger los Activos
 - Plan de Continuidad de Negocio y Recuperación ante Desastres: No basta con copias de seguridad, se necesita un plan que diga cómo se seguirá operando si ocurre un desastre y como recuperar la normalidad en el menor tiempo posible
-- Monitorización Continua y Gestión de Incidentes: Implementar sistemas que vigilan la actividad de la red y sistemas en tiempo real para detectar comportamientos anómalos.
-- Inteligencia de Amenazas (Threat Intelligence): Permite conocer las tácticas, técnicas y procedimientos que usan los ciberdelincuentes para anticiparse a sus ataques.
-- Auditorías de Seguridad y Pentesting Periódicos: Hay que poner a prueba nuestras defensas regularmente. Las auditorías revisan que los controles estén bien implementados, y el pentesting simula un ataque real para encontrar agujeros de seguridad.
+- Monitorización Continua y Gestión de Incidentes: Implementar sistemas que vigilan la actividad de la red y sistemas en tiempo real para detectar comportamientos extraños.
+- Inteligencia de Amenazas (Threat Intelligence): Permite conocer los procedimientos que usan los ciberdelincuentes para anticiparse a posibles ataques.
+- Auditorías de Seguridad y Pentesting Periódicos: Las auditorías revisan que los controles estén bien implementados, y el pentesting simula un ataque real para encontrar agujeros de seguridad.
 - Fortalecimiento de la Seguridad del Proveedor Web: Es crucial exigir al proveedor que garantice unos niveles de seguridad, que nos proporcione informes de estado y que aplique parches y actualizaciones periodicamente.
 
 Estrategia de Tratamiento del Riesgo y el Riesgo Residual​
-- Mitigar o Reducir el Riesgo: Implementar salvaguardas (controles) para reducir la probabilidad de que la amenaza ocurra o para disminuir el impacto si llega a materializarse.
+- Mitigar o Reducir el Riesgo: Implementar controles para reducir la probabilidad de que la amenaza ocurra o para disminuir el impacto.
 - Transferir el Riesgo: Consiste en pasar el riesgo a un tercero. La empresa no se libra del problema, pero sí de las consecuencias financieras.
 - Eliminar o Evitar el Riesgo: Es la opción más drástica. Si un proceso o una tecnología conlleva un riesgo demasiado alto y no es absolutamente esencial para el negocio, se puede decidir eliminarlo.
-- Aceptar o Asumir el Riesgo: A veces, el coste de implementar un control es mucho mayor que el daño que podría causar el riesgo. En otros casos, el nivel de riesgo es tan bajo que la empresa decide, de forma consciente e informada, no hacer nada y simplemente asumirlo.
+- Aceptar o Asumir el Riesgo: A veces, el coste de implementar un control es mucho mayor que el daño que podría causar el riesgo. En otros casos, el nivel de riesgo es tan bajo que la empresa decide no hacer nada y simplemente asumirlo.
 
 
 ## 7. Conclusión {#7.-conclusión}
