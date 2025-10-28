@@ -69,7 +69,7 @@
 
 - Calendario de realización y seguimiento y revisión del análisis.
 
-| Fase                       | Frecuencia                  | Responsable / Departamento Encargado       |
+| Fase                       | Frecuencia                  | Departamento Encargado    |
 |----------------------------|----------------------------|---------------------------------------------|
 | Análisis inicial completo  | Al arrancar el PDS         | Responsable de Seguridad                     |
 | Revisión periódica         | Anual                      | Equipos TIC y Seguridad                      |
