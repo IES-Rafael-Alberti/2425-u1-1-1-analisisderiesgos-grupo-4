@@ -200,10 +200,9 @@ Salvaguardas actuales y recomendables para los activos:
 
 ## 5. Evaluación y cálculo del riesgo {#5.-evaluación-y-cálculo-del-riesgo}
 
-Riesgo > 4 La organización considera el riesgo reseñable y debe proceder a su tratamiento.
- 
-[Ver el anexo](./anexos/plan_director_de_seguridad_hoja_para_el_analisis_de_riesgos.xlsm)
+Para cada par activo-amenaza, estimaremos la probabilidad de que la amenaza impacte sobre el negocio: probabilidad x impacto.
 
+Decidir el umbral a partir del cual se aceptará el riesgo.
 
 ## 6. Medidas complementarias que permitan materializar la protección de los activos. {#6.-medidas-complementarias-que-permitan-materializar-la-protección-de-los-activos.}
 
