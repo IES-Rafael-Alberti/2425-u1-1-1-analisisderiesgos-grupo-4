@@ -221,5 +221,7 @@ Estrategia de Tratamiento del Riesgo y el Riesgo Residual​
 
 
 ## 7. Conclusión {#7.-conclusión}
-
+Un buen análisis de riesgos en ciberseguridad no es un trámite más, sino la base sobre la que se construye una protección sólida y sostenible. No se trata de tener suerte frente a los incidentes, sino de aplicar método, coordinación y una mentalidad de mejora continua. Conocer los activos críticos, entender las vulnerabilidades reales y evaluar las amenazas con objetividad permite anticiparse y actuar antes de que un problema se convierta en crisis.
+A día de hoy, la gestión del riesgo debe formar parte del ADN de la empresa, ya que es algo fundamental. No vale solamente con reaccionar o con implantar medidas aisladas, si no que, hace falta compromiso de toda la empresa y una revisión constante que mantenga la estrategia viva y actualizada frente a un entorno cambiante.
+El análisis de riesgos nos ofrece una visión clara de dónde estamos y hacia dónde debemos ir lo que nos facilita la toma de decisiones informadas, priorizar inversiones y equilibrar la seguridad con los objetivos del negocio.Solo así una organización puede considerarse verdaderamente preparada para proteger su información, mantener su operatividad y preservar su reputación frente a los desafíos del mundo digital actual.
 ## 8. Bibliografía/Webgrafía {#8.-bibliografía/webgrafía}
