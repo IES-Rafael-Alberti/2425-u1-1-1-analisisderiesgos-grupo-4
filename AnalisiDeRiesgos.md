@@ -173,7 +173,24 @@ Salvaguardas actuales y recomendables para los activos:
 
 ### 4.1. Identificación de salvaguardas (Medidas y controles de seguridad)  {#4.1-identificación-de-salvaguardas-(medidas-y-controles-de-seguridad)}
 
-> Apóyate y consulta el archivo: 2.1. Control ISO 27002.pdf y 2.2. Control ISO 27002 Ampliado.pdf
+| **Dominio**        | **Salvaguarda**                | **Esencia y aplicación**                                             |
+|---------------------|--------------------------------|----------------------------------------------------------------------|
+| **Gobierno**        | Política, roles y segregación  | Política clara, funciones separadas, delegaciones documentadas       |
+| **Activos**         | Inventario y manejo            | Registro y ciclo de vida controlado de equipos y datos relevantes    |
+| **Accesos**         | Gestión y mínimo privilegio    | Altas/bajas coordinadas, privilegios limitados y con doble factor (MFA) |
+| **Datos**           | Copias, DLP, cifrado           | Copias seguras, destrucción controlada y cifrado en dispositivos y nube |
+| **Claves**          | Gestión de ciclo de vida       | Emisión, rotación y caducidad monitorizadas                          |
+| **Correo**          | Anti-malware y autenticación   | Filtros activos y protección contra suplantación                     |
+| **Endpoints**       | Endurecimiento y EDR           | Configuración segura y sistemas de detección de amenazas             |
+| **Vulnerabilidades**| Parches y escaneos             | Actualizaciones y revisión regular de vulnerabilidades               |
+| **Operación**       | Cambios y sincronización       | Control de cambios y hora unificada para registros                   |
+| **Red**             | Segmentación, firewall, m.     | VLANs separadas, firewall y monitorización                           |
+| **Nube/aplicaciones** | Seguridad y pruebas          | SLAs, evaluación de seguridad y pruebas periódicas                   |
+| **Soportes**        | Gestión medios extraíbles      | Cifrado y registro/control de uso y destrucción                      |
+| **Instalaciones**   | Física y CPD                   | Accesos controlados y entorno seguro para críticos                   |
+| **Personas**        | Formación y concienciación     | Sensibilización y políticas claras                                   |
+| **Movilidad**       | BYOD/MDM/MAM                   | Registro y protección de dispositivos móviles                        |
+
 
 ### 4.2. Vulnerabilidades/Debilidades {#4.2-vulnerabilidades/debilidades}
 | **Categoría** | **Vulnerabilidad / Debilidad** |
