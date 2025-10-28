@@ -69,13 +69,13 @@
 
 - Calendario de realización y seguimiento y revisión del análisis.
 
-| Fase | Frecuencia | Responsable |
-|------|-----------|-------------|
-| Análisis inicial completo | Al arrancar el PDS | Responsable Seguridad |
-| Revisión periódica | Anual | Equipos TIC y Seguridad |
-| Revisión tras incidentes | Cuando sucedan | Equipos afectados |
-| Actualización de activos | Semestral/anual | Administración/TIC |
-| Informe a dirección | Anual y tras cambios | Responsable Seguridad |
+| Fase                       | Frecuencia                  | Responsable / Departamento Encargado       |
+|----------------------------|----------------------------|---------------------------------------------|
+| Análisis inicial completo  | Al arrancar el PDS         | Responsable de Seguridad                     |
+| Revisión periódica         | Anual                      | Equipos TIC y Seguridad                      |
+| Revisión tras incidentes   | Cuando sucedan             | Departamento TIC o departamento involucrado según el incidente |
+| Actualización de activos   | Semestral/anual            | Administración y TIC                         |
+| Informe a dirección        | Anual y tras cambios       | Responsable de Seguridad                     |
 
 Seguimiento y revisión continua
 El sistema implementado debe contemplar revisiones periódicas que incluyan:
