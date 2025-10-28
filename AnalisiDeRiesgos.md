@@ -73,7 +73,7 @@
 |----------------------------|----------------------------|---------------------------------------------|
 | Análisis inicial completo  | Al arrancar el PDS         | Responsable de Seguridad                     |
 | Revisión periódica         | Anual                      | Equipos TIC y Seguridad                      |
-| Revisión tras incidentes   | Cuando sucedan             | Departamento TIC o departamento involucrado según el incidente |
+| Revisión tras incidentes   | Cuando sucedan             | Departamento TIC |
 | Actualización de activos   | Semestral/anual            | Administración y TIC                         |
 | Informe a dirección        | Anual y tras cambios       | Responsable de Seguridad                     |
 
