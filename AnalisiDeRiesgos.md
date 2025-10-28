@@ -153,7 +153,7 @@ Razonamiento y prioridades
 
 ## 4. Identificar vulnerabilidades y salvaguardas {#4.-identificar-vulnerabilidades-y-salvaguardas}
 
-Vulnerabilidades identificables en activos de la empresa:
+Vulnerabilidades identificadas en activos de la empresa:
 - Equipos con antivirus no actualizado o sin soporte del fabricante.
 - Ausencia o insuficiencia de políticas de seguridad documentadas.
 - Falta de control sobre la seguridad de la página web externa.
@@ -176,8 +176,27 @@ Salvaguardas actuales y recomendables para los activos:
 > Apóyate y consulta el archivo: 2.1. Control ISO 27002.pdf y 2.2. Control ISO 27002 Ampliado.pdf
 
 ### 4.2. Vulnerabilidades/Debilidades {#4.2-vulnerabilidades/debilidades}
+| **Categoría** | **Vulnerabilidad / Debilidad** |
+|---------------|--------------------------------|
+| **Física y Ambiental** | Equipos portátiles y dispositivos móviles sin cifrar o sin protección antivirus. |
+| | Seguridad física deficiente en las instalaciones (accesos no controlados). |
+| | Cableado de red expuesto o accesible a personal no autorizado. |
+| | Equipos sensibles ubicados en zonas con riesgos ambientales (humedad, calor). |
+| **Humana y Organizativa** | Falta de formación y conciencia en seguridad por parte del personal. |
+| | Procedimientos inexistentes para gestionar la baja de un empleado (no se revocan accesos). |
+| | Insuficiente supervisión del personal y de los proveedores con acceso a datos. |
+| | Inadecuada segregación de funciones (una persona concentra demasiado control). |
+| | Derechos de usuario que no se revisan periódicamente y acumulan privilegios innecesarios. |
+| **Procesos y Políticas** | Ausencia de políticas claras (política de acceso, de escritorio limpio, uso de criptografía). |
+| | Copias de seguridad que no se realizan con la frecuencia necesaria o no se prueban. |
+| | Inadecuada clasificación de la información (no se sabe qué es crítico y qué no). |
+| | Gestión de cambios deficiente (se implementan nuevas tecnologías sin analizarlas). |
+| **Técnica** | Contraseñas predeterminadas que nunca se modificaron en dispositivos o sistemas. |
+| | Software y sistemas operativos desactualizados, sin los últimos parches de seguridad. |
+| | Uso de software no autorizado o descargado de fuentes no fiables. |
+| | Conexiones a redes públicas o Wi-Fi sin las debidas medidas de protección. |
+| | Ausencia de sistemas de autenticación robustos (como la autenticación multifactor). |
 
-> Apóyate y consulta el archivo: 3.2 Listado de Amenazas y Vulnerabilidades ISO27000.pdf y 3.3 Margerit
 
 ## 5. Evaluación y cálculo del riesgo {#5.-evaluación-y-cálculo-del-riesgo}
 
